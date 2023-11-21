@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celikoor_Kelompok8", "Celikoor_Kelompok8.csproj", "{68766F3C-C482-48D4-83FE-3C1BF076D18D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celikoor_LIB", "Celikoor_LIB\Celikoor_LIB.csproj", "{EA3FA4CB-95E7-4A92-B12A-DBADECEF1D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68766F3C-C482-48D4-83FE-3C1BF076D18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68766F3C-C482-48D4-83FE-3C1BF076D18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68766F3C-C482-48D4-83FE-3C1BF076D18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68766F3C-C482-48D4-83FE-3C1BF076D18D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3FA4CB-95E7-4A92-B12A-DBADECEF1D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3FA4CB-95E7-4A92-B12A-DBADECEF1D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3FA4CB-95E7-4A92-B12A-DBADECEF1D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3FA4CB-95E7-4A92-B12A-DBADECEF1D34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1EA3A8B-95AF-4C43-952F-A47F579DC458}
+	EndGlobalSection
+EndGlobal

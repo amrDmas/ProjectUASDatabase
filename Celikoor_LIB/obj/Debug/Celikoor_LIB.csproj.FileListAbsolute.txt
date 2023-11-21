@@ -1,0 +1,8 @@
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\Celikoor_LIB\bin\Debug\Celikoor_LIB.dll
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\Celikoor_LIB\bin\Debug\Celikoor_LIB.pdb
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\Celikoor_LIB\bin\Debug\MySql.Data.dll
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CoreCompileInputs.cache
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CopyComplete
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\Celikoor_LIB\obj\Debug\Celikoor_LIB.dll
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\Celikoor_LIB\obj\Debug\Celikoor_LIB.pdb
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.AssemblyReference.cache

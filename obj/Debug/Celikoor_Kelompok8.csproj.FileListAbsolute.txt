@@ -1,0 +1,28 @@
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\Project Akhir Semester Gasal 20232024-20231113\Celikoor_Kelompok8\bin\Debug\Celikoor_Kelompok8.exe.config
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\Project Akhir Semester Gasal 20232024-20231113\Celikoor_Kelompok8\bin\Debug\Celikoor_Kelompok8.exe
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\Project Akhir Semester Gasal 20232024-20231113\Celikoor_Kelompok8\bin\Debug\Celikoor_Kelompok8.pdb
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\Project Akhir Semester Gasal 20232024-20231113\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.csproj.AssemblyReference.cache
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\Project Akhir Semester Gasal 20232024-20231113\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.FormMenu.resources
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\Project Akhir Semester Gasal 20232024-20231113\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.FormLogin.resources
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\Project Akhir Semester Gasal 20232024-20231113\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.FormRegister.resources
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\Project Akhir Semester Gasal 20232024-20231113\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.Properties.Resources.resources
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\Project Akhir Semester Gasal 20232024-20231113\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.csproj.GenerateResource.cache
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\Project Akhir Semester Gasal 20232024-20231113\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.csproj.CoreCompileInputs.cache
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\Project Akhir Semester Gasal 20232024-20231113\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.exe
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\Project Akhir Semester Gasal 20232024-20231113\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.pdb
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\bin\Debug\Celikoor_Kelompok8.exe.config
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\bin\Debug\Celikoor_Kelompok8.exe
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\bin\Debug\Celikoor_Kelompok8.pdb
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.csproj.AssemblyReference.cache
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.FormMenu.resources
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.FormLogin.resources
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.FormRegister.resources
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.Properties.Resources.resources
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.csproj.GenerateResource.cache
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.csproj.CoreCompileInputs.cache
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.exe
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.pdb
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\bin\Debug\Celikoor_LIB.dll
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\bin\Debug\MySql.Data.dll
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\bin\Debug\Celikoor_LIB.pdb
+D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.csproj.CopyComplete
