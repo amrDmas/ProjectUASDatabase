@@ -40,5 +40,11 @@ namespace Celikoor_LIB
         public double Saldo { get => saldo; set => saldo = value; }
         public string Username { get => username; set => username = value; }
         public string Password { get => password; set => password = value; }
+
+        public static List<Konsumen> BacaData()
+        {
+            List<Konsumen> listKonsumen = new List<Konsumen>();
+            return listKonsumen;
+        }
     }
 }
