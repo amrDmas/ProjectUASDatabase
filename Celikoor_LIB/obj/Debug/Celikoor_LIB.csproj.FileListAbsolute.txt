@@ -6,3 +6,9 @@ D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\Celikoor_LIB\obj\Debug\Ce
 D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\Celikoor_LIB\obj\Debug\Celikoor_LIB.dll
 D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\Celikoor_LIB\obj\Debug\Celikoor_LIB.pdb
 D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.AssemblyReference.cache
+D:\dimas\kuliah\Semester 3\Database\Github\ProjectUASDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.dll
+D:\dimas\kuliah\Semester 3\Database\Github\ProjectUASDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.pdb
+D:\dimas\kuliah\Semester 3\Database\Github\ProjectUASDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.AssemblyReference.cache
+D:\dimas\kuliah\Semester 3\Database\Github\ProjectUASDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CoreCompileInputs.cache
+D:\dimas\kuliah\Semester 3\Database\Github\ProjectUASDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.dll
+D:\dimas\kuliah\Semester 3\Database\Github\ProjectUASDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.pdb
