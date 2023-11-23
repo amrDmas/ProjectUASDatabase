@@ -26,3 +26,18 @@ D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\bin\Debug\Celikoor_LIB.dl
 D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\bin\Debug\MySql.Data.dll
 D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\bin\Debug\Celikoor_LIB.pdb
 D:\dimas\kuliah\Semester 3\Database\Celikoor_Kelompok8\obj\Debug\Celikoor_Kelompok8.csproj.CopyComplete
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\bin\Debug\Celikoor_Kelompok8.exe.config
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\bin\Debug\Celikoor_Kelompok8.exe
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\bin\Debug\Celikoor_Kelompok8.pdb
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\bin\Debug\Celikoor_LIB.dll
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\bin\Debug\Celikoor_LIB.pdb
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.csproj.AssemblyReference.cache
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.FormMenu.resources
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.FormLogin.resources
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.FormRegister.resources
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.Properties.Resources.resources
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.csproj.GenerateResource.cache
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.csproj.CoreCompileInputs.cache
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.csproj.CopyComplete
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.exe
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.pdb

@@ -12,3 +12,10 @@ D:\dimas\kuliah\Semester 3\Database\Github\ProjectUASDatabase\Celikoor_LIB\obj\D
 D:\dimas\kuliah\Semester 3\Database\Github\ProjectUASDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CoreCompileInputs.cache
 D:\dimas\kuliah\Semester 3\Database\Github\ProjectUASDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.dll
 D:\dimas\kuliah\Semester 3\Database\Github\ProjectUASDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.pdb
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.dll
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.pdb
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.AssemblyReference.cache
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CopyComplete
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.dll
+C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.pdb
