@@ -41,3 +41,19 @@ C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDat
 C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.csproj.CopyComplete
 C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.exe
 C:\Users\Gilbert\Documents\Kuliah Semester 3\Data Base\Project UAS\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.pdb
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\bin\Debug\Celikoor_Kelompok8.exe.config
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\bin\Debug\Celikoor_Kelompok8.exe
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\bin\Debug\Celikoor_Kelompok8.pdb
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\bin\Debug\Celikoor_LIB.dll
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\bin\Debug\Celikoor_LIB.pdb
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.csproj.AssemblyReference.cache
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.FormMenu.resources
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.FormLogin.resources
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.FormRegister.resources
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.Properties.Resources.resources
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.csproj.GenerateResource.cache
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.csproj.CoreCompileInputs.cache
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.csproj.CopyComplete
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.exe
+C:\Users\Hendra Wijaya\Documents\Kuliah\Database\ProjectFix\ProjectUASDatabase\obj\Debug\Celikoor_Kelompok8.pdb
